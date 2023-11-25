@@ -38,3 +38,14 @@ This table provides a concise overview of the key differences between microecono
 - **Monetary policy:** Examining the role of central banks in regulating the money supply and interest rates
 
 In summary, microeconomics focuses on the "trees" of the economy - the individual units and their interactions - while macroeconomics focuses on the "forest" - the economy as a whole and its overall performance. Both microeconomics and macroeconomics are essential for understanding how the economy works and for formulating effective economic policies.
+
+## Nature of economics / Is economics a Science or an ART?
+
+**Economics as a science:** Science is defined as a branch of knowledge that is associated with the cause and effect relationship and analyses economic factors. Additionally, economics contributes in combining various sections of science like statistics, mathematics, etc., to understand the relationship between price, supply, demand, and various economic determinants.
+
+- **Positive economics:** Positive science examines the connection between two variables, but it does not furnish any value judgement, which means that it only states ‘what is’ and deals with just the facts related to the economy.
+- **Normative economics:** According to normative science, economics transfers value judgement, which indicates ‘what ought to be.’ This form of science is involved in policies required to achieve these economic goals.
+
+**Economics as an art:** Art is a system that controls and represents the way things should be approached and completed. Economics has multiple sections such as creation, delivery, consumption, finance, and implementation of standard rules and regulations that are competent in solving complex issues and queries of the society.
+
+Therefore, economics is recognized as both science and art: science for its methodology and arts for its applications in both professional and practical aspects of the economic problems we confront every day.
