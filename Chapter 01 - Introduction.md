@@ -131,3 +131,42 @@ Here's a table summarizing the distinctions between positive economics and norma
 |**Influence on Policy**|Lays the foundation for understanding economic mechanisms.|Guides policy decisions based on desired outcomes and values.|
 
 This table outlines the key differences between positive economics and normative economics, highlighting their respective focuses, nature of statements, examples, value neutrality, purposes, and influence on policy.
+
+## What is opportunity cost
+
+Opportunity cost is a fundamental concept in economics that refers to the value of the next best alternative that must be forgone in order to pursue a particular action or make a choice. In other words, it represents the cost of choosing one option over another, taking into account the benefits that could have been gained from the next best alternative.
+
+Here are key points to understand about opportunity cost:
+
+1. **Scarcity and Choice:** Opportunity cost arises from the fundamental economic problem of scarcity, where resources are limited, and choices must be made. When resources are used for one purpose, they cannot be used for another.
+    
+2. **Decision-Making:** In decision-making, individuals, businesses, and governments face trade-offs. Choosing one option over another involves giving up the potential benefits that could have been obtained from the foregone alternative.
+    
+3. **Explicit and Implicit Costs:** Opportunity cost includes both explicit costs (monetary costs that are directly incurred) and implicit costs (non-monetary costs associated with forgone alternatives, such as time, effort, and the value of other opportunities).
+    
+4. **Calculation:** The opportunity cost of a decision is not always easily quantifiable in monetary terms. It requires considering the value of the benefits that could have been obtained from the next best alternative.
+    
+5. **Comparative Advantage:** The concept of comparative advantage is closely related to opportunity cost. It suggests that individuals or entities should specialize in activities where they have a lower opportunity cost, allowing for more efficient resource allocation.
+    
+6. **Example:** Consider a student who has to choose between studying for an exam or working a part-time job. If the student chooses to study, the opportunity cost is the potential income from the part-time job. Conversely, if the student chooses to work, the opportunity cost is the potential improvement in grades from studying.
+    
+Understanding opportunity cost is crucial for making informed decisions and optimizing resource allocation.
+
+## Production Possibility Frontier (PPF) / production possibility curve (PPC)
+
+Best Article: https://www.investopedia.com/terms/p/productionpossibilityfrontier.asp
+
+The production possibility frontier (PPF) is a curve on a graph that illustrates the possible quantities that can be produced of two products if both depend upon the same finite resource for their manufacture. The PPF is also referred to as the production possibility curve.
+
+![[Pasted image 20231125134152.png]]
+
+PPF also plays a crucial role in economics. For example, it can demonstrate that a nation's economy has reached the highest level of efficiency possible.
+
+**KEY TAKEAWAYS
+
+- When producing goods, opportunity cost is what is given up when you take resources from one product to produce another. The maximum amount that can be produced is illustrated by a curve on a graph.
+- The production possibility frontier (PPF) is above the curve, illustrating impossible scenarios given the available resources.
+- The PPF demonstrates that the production of one commodity may increase only if the production of the other commodity decreases.
+- The PPF is a decision-making tool for managers deciding on the optimum product mix for the company.
+## 
+A product is **any item or service you sell to serve a customer's need or want**. They can be physical or virtual. Physical products include durable goods (like cars, furniture, and computers) and nondurable goods (like food and beverages).
