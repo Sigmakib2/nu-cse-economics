@@ -8,4 +8,5 @@ The law of demand is a fundamental principle in economics that describes the rel
 
 The law of demand states that the quantity purchased varies inversely with price. In other words, the higher the price, the lower the quantity demanded.
 
-![[demand-curve-law.jpg]]
+![Demand Curve](/images/demand-curve-law.jpg)
+
