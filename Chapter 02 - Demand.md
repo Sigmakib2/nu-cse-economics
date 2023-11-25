@@ -7,3 +7,5 @@ In economics, demand refers to the quantity of a good or service that consumers 
 The law of demand is a fundamental principle in economics that describes the relationship between the price of a good or service and the quantity demanded by consumers. The law of demand can be summarized with the following statement:
 
 The law of demand states that the quantity purchased varies inversely with price. In other words, the higher the price, the lower the quantity demanded.
+
+![[demand-curve-law.jpg]]
