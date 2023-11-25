@@ -158,7 +158,7 @@ Best Article: https://www.investopedia.com/terms/p/productionpossibilityfrontier
 
 The production possibility frontier (PPF) is a curve on a graph that illustrates the possible quantities that can be produced of two products if both depend upon the same finite resource for their manufacture. The PPF is also referred to as the production possibility curve.
 
-![[Pasted image 20231125134152.png]]
+![PPF](/images/ppf.png "PPF")
 
 PPF also plays a crucial role in economics. For example, it can demonstrate that a nation's economy has reached the highest level of efficiency possible.
 
@@ -168,5 +168,7 @@ PPF also plays a crucial role in economics. For example, it can demonstrate that
 - The production possibility frontier (PPF) is above the curve, illustrating impossible scenarios given the available resources.
 - The PPF demonstrates that the production of one commodity may increase only if the production of the other commodity decreases.
 - The PPF is a decision-making tool for managers deciding on the optimum product mix for the company.
-## 
+
+## What is product
+
 A product is **any item or service you sell to serve a customer's need or want**. They can be physical or virtual. Physical products include durable goods (like cars, furniture, and computers) and nondurable goods (like food and beverages).
