@@ -85,3 +85,70 @@ Here are some of the factors that can cause a shift in the demand curve:
 > [!Read This] 
 >  https://www.geeksforgeeks.org/movement-along-demand-curve-and-shift-in-demand-curve/
 
+## What are the factors that can shift a demand curve?
+
+Several factors can cause a shift in the demand curve, reflecting changes in the overall quantity demanded at each price level. These factors include:
+
+1. **Income:** Changes in consumer income can significantly impact the demand for goods and services. For normal goods, an increase in income tends to lead to an increase in demand, shifting the demand curve to the right. For inferior goods, the relationship may be the opposite.
+    
+2. **Price of Related Goods:**
+    
+    - **Substitutes:** The demand for a good may increase if the price of its substitute rises. For example, if the price of coffee increases, the demand for tea (a substitute) may increase, shifting the demand curve for tea to the right.
+    - **Complements:** The demand for a good may decrease if the price of its complement rises. For instance, if the price of smartphones (complement) increases, the demand for smartphone cases may decrease, shifting the demand curve for cases to the left.
+3. **Consumer Preferences and Tastes:** Changes in consumer preferences and tastes can lead to shifts in the demand curve. For example, if a new study highlights health benefits of a certain fruit, the demand for that fruit may increase, shifting the demand curve to the right.
+    
+4. **Expectations:** Consumer expectations about future prices, income, or economic conditions can influence current demand. If consumers expect prices to rise in the future, they may increase their current demand, shifting the demand curve to the right.
+    
+5. **Population Changes:** Changes in the size or demographics of the population can affect overall demand. For instance, an increase in the population may lead to an increase in the demand for various goods and services.
+    
+6. **Government Policies:** Government policies, such as taxes, subsidies, or regulations, can impact the demand for certain goods. For example, a subsidy on electric vehicles might increase their demand, shifting the demand curve to the right.
+    
+7. **Advertising and Marketing:** Effective advertising and marketing campaigns can influence consumer preferences and increase demand for a product, shifting the demand curve to the right.
+    
+8. **Seasonal Factors:** Seasonal changes or holidays can affect the demand for specific goods. For instance, the demand for winter clothing may increase during the colder months, shifting the demand curve to the right during that period.
+    
+It's important to note that these factors can work in combination, and the overall impact on the demand curve depends on the specific circumstances of the market and the nature of the goods or services in question.
+## What Is Price Elasticity of Demand? / What Is Elasticity of Demand?
+
+Elasticity of Demand: https://youtu.be/HHcblIxiAAk?si=Rcu0IKRhdNf1HRIK
+Understand Elasticity: https://youtu.be/1XXhpHJTglg?si=WjzA46uIaTqkBEzP
+
+Elasticity of demand is a concept in economics that measures how sensitive the quantity demanded of a good or service is to a change in its price. It is calculated as the percentage change in quantity demanded divided by the percentage change in price. The formula for elasticity of demand (Ed) is:
+
+![](/images/Elasticity-of-Demand.png)
+### Things to remember about elasticity of demand
+
+- Price elasticity of demand is a measurement of the change in consumption of a product in relation to a change in its price.
+- A good is perfectly elastic if the price elasticity is infinite (if demand changes substantially even with minimal price change).
+- If price elasticity is greater than 1, the good is elastic; if less than 1, it is inelastic.
+- If a good’s price elasticity is 0 (no amount of price change produces a change in demand), it is perfectly inelastic.
+- If price elasticity is exactly 1 (price change leads to an equal percentage change in demand), it is known as unitary elasticity.
+- The availability of a substitute for a product affects its elasticity. If there are no good substitutes and the product is necessary, demand won’t change when the price goes up, making it inelastic.
+### Factors influencing elasticity of demand include:
+
+- **Availability of substitutes:** If close substitutes are available, demand tends to be more elastic.
+- **Necessity vs. Luxury:** Necessities often have inelastic demand, while luxury items may have elastic demand.
+- **Time horizon:** Demand elasticity may change over time. In the short run, demand may be more inelastic, but in the long run, consumers may find alternatives, making demand more elastic.
+- **Definition of the market:** The broader the definition of the market, the more substitutes are likely to be available, and demand may be more elastic.
+
+Understanding elasticity of demand is crucial for businesses and policymakers. It helps in pricing strategies, tax policy decisions, and predicting the impact of price changes on total revenue.
+### Elasticity of demand will not be the same everywhere on a linear demand curve
+
+Elasticity of demand is not constant along a linear demand curve. Instead, it varies at different points along the curve. The reason for this variability is that the percentage change in quantity demanded in response to a percentage change in price can differ depending on the initial price and quantity.
+
+Here's a more detailed explanation:
+
+1. **Elasticity Changes Along the Demand Curve:**
+    
+    - Near the top of a linear demand curve (where quantity is small), demand tends to be elastic because consumers can easily find substitutes, and small price changes have a significant impact on quantity demanded.
+    - In the middle of the demand curve, elasticity is moderate.
+    - Near the bottom of the demand curve (where quantity is large), demand tends to be inelastic because consumers have fewer substitutes, and price changes have a relatively small impact on quantity demanded.
+2. **Calculating Elasticity Along the Demand Curve:**
+    - To calculate elasticity at a specific point on a demand curve, you would use the formula I mentioned earlier: 
+    - The percentage change in quantity demanded and price is calculated based on the initial and final values at the specific point on the curve.
+3. **Graphical Representation:**
+    - On a linear demand curve, you can visually observe changes in elasticity. Steeper portions of the curve correspond to less elastic (or more inelastic) demand, while flatter portions indicate more elastic demand.
+4. **Total Revenue and Elasticity:**
+    - Understanding elasticity along the demand curve is crucial for businesses. In general, when demand is elastic (Ed > 1), a decrease in price increases total revenue, while an increase in price decreases total revenue. Conversely, when demand is inelastic (Ed < 1), a decrease in price decreases total revenue, while an increase in price increases total revenue.
+
+In summary, the elasticity of demand varies along a linear demand curve, and businesses need to consider this variability when making pricing and production decisions.
