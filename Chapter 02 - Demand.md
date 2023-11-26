@@ -152,3 +152,14 @@ Here's a more detailed explanation:
     - Understanding elasticity along the demand curve is crucial for businesses. In general, when demand is elastic (Ed > 1), a decrease in price increases total revenue, while an increase in price decreases total revenue. Conversely, when demand is inelastic (Ed < 1), a decrease in price decreases total revenue, while an increase in price increases total revenue.
 
 In summary, the elasticity of demand varies along a linear demand curve, and businesses need to consider this variability when making pricing and production decisions.
+### Perfectly elastic demand
+
+Perfectly elastic demand means when the percentage of change in quantity demanded is **infinite** even if the percentage of change in price is zero, the demand is said to be **perfectly elastic**. Increasing of demand at given price. According to law of demand, the demand for goods and services changes when there is change in its price. But the relationship between demand and price may not be the equal and same in all the case, it may vary from product to product or time to time or market to conditions. So as to understand extent of the effect of price on the demand, one should know about the price elasticity of demand concepts.
+
+PERFECTLY ELASTIC DEMAND: https://sites.google.com/site/economicsbasics/perfectly-elastic-demand
+
+## Draw a demand curve
+
+Draw a demand curve from a demand schedule: https://youtu.be/2ElmDWnCA3s?si=BNNQkCne8_fT0Zsa
+
+How to Draw the DEMAND CURVE (Using the DEMAND EQUATION): https://youtu.be/Oa59CLYFfCo?si=M51wmltK3Na-1H6O
