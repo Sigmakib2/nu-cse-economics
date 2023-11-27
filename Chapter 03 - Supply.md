@@ -35,3 +35,48 @@ The quantity of a good or service that producers are willing to supply in a mark
 9. **Changes in the Prices of Related Goods:** The prices of goods that are substitutes or complements can influence supply. For example, if the price of a substitute for a good increases, producers may shift their resources toward the production of that good, reducing supply in the original market.
     
 These determinants interact to shape the supply curve for a particular good or service, illustrating how changes in these factors can lead to shifts in the overall supply. It's important to note that these determinants are interrelated, and changes in one can affect others.
+## What Is Equilibrium?
+
+Equilibrium is the state in which market supply and demand balance each other, and as a result prices become stable. Generally, an over-supply of goods or services causes prices to go down, which results in higher demand—while an under-supply or shortage causes prices to go up resulting in less demand.
+
+![](/images/Equilibrium.webp)
+
+- A market is said to have reached equilibrium price when the supply of goods matches demand.
+- A market in equilibrium demonstrates three characteristics: the behavior of agents is consistent, there are no incentives for agents to change behavior, and a dynamic process governs equilibrium outcomes.
+- There are several types of equilibrium used in economics.
+- Disequilibrium is the opposite of equilibrium and it is characterized by changes in conditions that affect market equilibrium.
+- In reality, markets are never in perfect equilibrium, although prices do tend toward it.
+## Normal Goods and Inferior goods
+
+Normal goods and inferior goods are concepts in economics that describe how the demand for a good changes in response to changes in income.
+
+1. **Normal Goods:**
+    - Normal goods are those for which demand increases as consumer incomes rise and decreases as consumer incomes fall.
+    - The relationship between income and demand for normal goods is positive. As people's incomes increase, they are likely to buy more of these goods.
+    - Examples of normal goods include higher-end clothing, luxury items, and certain types of electronics. As people's incomes increase, they are more inclined to spend on these goods.
+
+1. **Inferior Goods:**
+    - Inferior goods are those for which demand increases as consumer incomes fall and decreases as consumer incomes rise.
+    - The relationship between income and demand for inferior goods is negative. As people's incomes decrease, they may shift their consumption towards these goods.
+    - Examples of inferior goods include generic or store-brand products, certain types of low-quality goods, and some basic food items. When incomes are low, people may opt for these goods over more expensive alternatives.
+
+It's important to note that whether a good is considered normal or inferior depends on the context of the specific market and the income levels of the consumers involved. Additionally, the classification of a good as normal or inferior is based on the income elasticity of demand, which measures the responsiveness of quantity demanded to changes in income.
+## What Is Price Elasticity of Supply?
+
+Price elasticity of supply is the responsiveness of a supply of a good or service after a change in its [market price](https://www.investopedia.com/terms/m/market-price.asp). According to basic economic theory, the supply of a good will increase when its price rises. Conversely, the supply of a good will decrease when its price decreases. This happens because producers want to take advantage of a rise in price, so they increase production of their goods and services until demand is exceeded—at which time prices begin to fall. Producers then decrease output to match the price decline.
+
+Also see: [[Chapter 02 - Demand#What Is Price Elasticity of Demand? / What Is Elasticity of Demand?]]
+
+![](/images/elasticity-supply.png)
+Elasticity of Supply: https://youtu.be/gguIcyQzSog?si=G66IYuCeeCDdFqgt
+### Elasticity of Supply Possibilities
+
+Price elasticity of supply has five possibilities:
+
+- **Perfectly elastic**: The result is an infinite number
+- **Elastic**: The result is less than one
+- **Unitary**: The result equals one
+- **Inelastic**: The result is greater than one
+- **Perfectly inelastic**: The result is equal to zero.
+
+So, if the corn from your farm has a price elasticity of supply equal to 0.2, it is elastic.
