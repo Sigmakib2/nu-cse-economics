@@ -79,4 +79,6 @@ Price elasticity of supply has five possibilities:
 - **Inelastic**: The result is greater than one
 - **Perfectly inelastic**: The result is equal to zero.
 
+How Does Price Elasticity Affect Supply: https://www.investopedia.com/ask/answers/040615/how-does-price-elasticity-affect-supply.asp
+
 So, if the corn from your farm has a price elasticity of supply equal to 0.2, it is elastic.
