@@ -81,3 +81,45 @@ For example, a factory employs workers to manufacture its products, and, at some
 - The law of diminishing marginal returns states that adding an additional factor of production results in smaller increases in output. 
 - After some optimal level of capacity utilization, the addition of any larger amounts of a factor of production will inevitably yield decreased per-unit incremental returns.
 - For example, if a factory employs workers to manufacture its products, at some point, the company will operate at an optimal level; with all other production factors constant, adding additional workers beyond this optimal level will result in less efficient operations.
+## Utility Analysis (Ordinal and Cardinal)
+
+In economics, utility refers to the satisfaction or pleasure that individuals derive from consuming goods and services. It is a subjective concept and varies from person to person. While utility cannot be directly measured in a physical sense, economists use various tools and concepts to study and analyze utility.
+
+1. **Ordinal Utility:** This approach focuses on the ranking of preferences rather than measuring the absolute level of satisfaction. Consumers can rank their preferences, indicating which bundles of goods or services they prefer over others, but they do not assign specific numerical values to the satisfaction derived from each bundle.
+    
+2. **Cardinal Utility:** This concept involves assigning numerical values to utility. While it's challenging to measure utility in an absolute sense, cardinal utility assumes that individuals can assign a specific numerical value to the satisfaction they derive from consuming a good or service. However, it's important to note that these numerical values are arbitrary and do not have any meaningful inter-personal or cross-temporal comparisons.
+
+Utility Analysis: https://youtu.be/cVhr-AHsmE0?si=-4quSpADbN2GPxJF
+## Budget line
+
+The budget line is a graphical delineation of all possible combinations of the two commodities that can be bought with provided income and cost so that the price of each of these combinations is equivalent to the monetary earnings of the customer.
+
+It is important to keep in mind that the slope of the budget line is equivalent to the ratio of the cost of two commodities. The slope of the budget constraint possesses distinctive importance.
+
+In other words, the slope of the budget line can be described as a straight line that bends downwards and includes all the potential combinations of the two commodities which a customer can purchase at market value by assigning his/her entire salary. The concept of the budget line is different from the Indifference curve, though both are necessary for consumer equilibrium.
+
+Budget line: https://byjus.com/commerce/budget-line/
+
+Budget line, budget equation , shift of budget line and rotation of budget line: https://youtu.be/d3Upk3YxpkY?si=ZjbvBG-f4Lf8h2Wb
+## What is Marginal Rate of Substitution (MRS)?
+
+In economics, the marginal rate of substitution (MRS) is the amount of a good that a consumer is willing to consume compared to another good, as long as the new good is equally satisfying.
+
+MRS is used in [indifference theory](https://www.investopedia.com/terms/i/indifferencecurve.asp) to analyze consumer behavior. When someone is indifferent to substituting one item for another, their [marginal utility](https://www.investopedia.com/terms/m/marginalutility.asp) for substitution is zero since they neither gain nor lose any satisfaction from the trade.
+
+- The marginal rate of substitution (MRS) is the willingness of a consumer to replace one good for another good, as long as the new good is equally satisfying.
+- The marginal rate of substitution is the slope of the indifference curve at any given point along the curve and displays a frontier of utility for each combination of "good X" and "good Y."
+- When the law of diminishing MRS is in effect, the MRS forms a downward, negative sloping, convex curve showing more consumption of one good in place of another.
+- MRS may not inform analysts of true utility as it assumes both products can be exchanged for the same utility.
+- MRS is also limited in that it only considered two items; it does not consider how additional units may factor into different consumption preferences.
+
+## What Is Consumer Surplus?
+
+Consumer [surplus](https://www.investopedia.com/terms/s/surplus.asp) is an economic measurement of consumer benefits resulting from market competition. A consumer surplus happens when the price that consumers pay for a product or service is less than the price they're willing to pay. It's a measure of the additional benefit that consumers receive because they're paying less for something than what they were willing to pay.
+
+- A consumer surplus happens when the price consumers pay for a product or service is less than the price they're willing to pay.
+- Consumer surplus is based on the economic theory of marginal utility, which is the additional satisfaction a consumer gains from one more unit of a good or service.
+- Consumer surplus always increases as the price of a good falls and decreases as the price of a good rises.
+- It is depicted visually by economists as the triangular area under the demand curve between the market price and what consumers would be willing to pay.
+- Consumer surplus plus producer surplus equals the total economic surplus.
+
